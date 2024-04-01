@@ -1,0 +1,601 @@
+tags,patterns
+functional,"It's time for YouTube, chatbot."
+functional,End recognizing hand gestures
+functional,Begin recognizing motion gestures
+functional,Take it easy
+functional,I'd like to see YouTube.
+functional,Sayonara
+non_functional,"hi, nice weather today"
+functional,What's today's date and what's the day today?
+functional,Goodbye and thanks
+non_functional,do you have any plans for today
+non_functional,you're a failure
+functional,What's my laptop's battery percentage?
+functional,Give me the date
+functional,"Boss, what's the CPU temperature, Karen?"
+functional,It's YouTube time!
+functional,"Hey Karen, I need the CPU temperature"
+functional,Turn off hand gesture recognition
+functional,I want to visit stackoverflow.
+functional,What time is it at your end?
+functional,"Google, load up"
+functional,Visit Google
+non_functional,I'm here for the humor
+functional,Start recognizing motion signals
+functional,Launch Google
+functional,Activate gesture mode
+non_functional,"Time for a joke, isn't it?"
+functional,"YouTube, let's start."
+functional,Go to the YouTube video platform.
+functional,tell me date
+functional,"Google, internet search"
+functional,"Bye, bye"
+functional,Deactivate gesture recognition
+functional,"Google, open the search engine"
+functional,Do you have the time?
+functional,Do you have a charging port?
+functional,Could you let me know the date?
+functional,What's the present time?
+non_functional,hi there
+functional,End recognizing hand movements
+functional,Enable hand gesture commands
+functional,What's the date and day of the week?
+functional,Access Google
+functional,Begin gesture control
+functional,Laptop battery status?
+non_functional,hello again
+functional,"What's the temperature, Karen?"
+functional,How's the power situation?
+non_functional,Share your funniest joke
+non_functional,are you in learning mode
+functional,How much charge do you have?
+non_functional,you're stupid
+non_functional,shut up
+functional,"Google, take me online"
+non_functional,are you currently working
+functional,"Date details, please"
+functional,What's the time at the moment?
+functional,Could you let me know the time?
+functional,"Google, please"
+non_functional,Share a funny joke
+non_functional,You're fantastic
+non_functional,hiya
+non_functional,tell me about your activities
+non_functional,"hi, any hobbies"
+functional,End recognizing motion gestures
+functional,"Let me in on the time, if you can"
+functional,"Google, go to the website"
+functional,Cheerio
+non_functional,you're an imbecile
+non_functional,idiot
+non_functional,I could use some humor
+functional,I need to know the current date
+functional,"Karen, is my CPU running too hot?"
+non_functional,"hi, any cool music"
+functional,What's the current time on your side?
+non_functional,I could use some comic relief
+functional,"Google, explore the internet"
+non_functional,"hello, how's your family"
+non_functional,You're superb
+functional,Start hand gesture control
+non_functional,are you engaged in conversations
+non_functional,"hi, how are you"
+non_functional,Who's your architect
+non_functional,you're a disgrace
+non_functional,Make me laugh
+functional,Could you tell me today's date?
+functional,"What's the CPU temperature, Karen?"
+non_functional,who programmed you
+functional,What's the time right now?
+functional,"So long, partner"
+functional,What's the date today and what day is it?
+functional,Hasta la vista
+non_functional,I'm in the mood for a joke
+functional,Let me know the current time
+functional,I want to know the date and day
+functional,What's the time on your clock?
+non_functional,Great
+non_functional,are you analyzing data
+non_functional,Crack a joke
+functional,"Google, show me the search engine"
+functional,Terminate gesture recognition
+non_functional,i am fine
+functional,"Can you tell me the current date, please?"
+non_functional,how's it going
+functional,Is your battery fully charged?
+functional,Deactivate gesture mode
+functional,"Karen, give me the temperature reading of the processor"
+functional,"What's the temperature of the CPU, Karen?"
+functional,Use hand gestures
+functional,What's the day and date?
+non_functional,hi
+functional,Let's watch some YouTube.
+non_functional,"hello, any movie suggestions"
+non_functional,Who developed you
+functional,Open Google website
+non_functional,Wow
+functional,So long
+functional,"Karen, what's the heat level of my CPU?"
+non_functional,Joke
+functional,"What's the current temperature of the processor, Karen?"
+non_functional,how's your day going
+functional,Give me the current date
+functional,"Google, open up"
+functional,Tell me the current date
+non_functional,Can you tell a funny story?
+functional,"Battery level check, please."
+functional,"Goodbye, friend"
+non_functional,Who's your maker
+functional,Open the YouTube web page.
+functional,"Google, show the search bar"
+functional,Display battery information.
+functional,Have a great day
+functional,Stop detecting gestures
+functional,Can you work without charging?
+functional,Tell me the date right at this moment
+functional,What day is it today?
+functional,I'm interested in the time of day
+functional,I need to know the time
+functional,Go to stackoverflow website.
+non_functional,I want to hear a funny tale
+functional,What's the battery status?
+functional,"Google, it's time"
+non_functional,"hello, stranger"
+functional,Terminate hand gesture detection
+functional,Show me stackoverflow.
+functional,Start recognizing hand gestures
+functional,Battery life status?
+non_functional,Tell me about your developer
+functional,"Google, surf the web"
+functional,Please launch YouTube.
+functional,Turn off gesture control mode
+functional,Start recognizing gestures
+functional,Give me today's date
+functional,Power status?
+functional,Please share the current datewith me
+functional,What time is it now?
+functional,Direct me to stackoverflow.
+functional,Can you share the time with me?
+functional,I want to know the time of day
+functional,See you next
+functional,"YouTube, show me videos."
+non_functional,Cool
+functional,Please tell me the time
+functional,What time do you have?
+non_functional,"hello, anything new"
+functional,"Google, I want to search"
+functional,I want to go to YouTube.
+functional,"Google, start"
+functional,"Time, can you tell me?"
+non_functional,hey you
+functional,Let me know today's date
+functional,Switch to gesture mode
+functional,Do you need to recharge?
+functional,What's the date today?
+non_functional,what's happening in your world
+functional,"Time, share it with me"
+functional,"Google, access the web"
+non_functional,Cheer me up with humor
+non_functional,i'm fine
+non_functional,Give me a joke to remember
+functional,"Time, please reveal it to me"
+functional,tell me the temperature
+non_functional,are you having a busy day
+functional,What's the date and what day of the week is it?
+functional,Do you know the current time?
+functional,Goodnight
+non_functional,Let's hear a joke
+non_functional,you are dumb
+non_functional,greetings
+functional,What's the date and the day today?
+functional,Deactivate hand gestures
+non_functional,"hello, what's the buzz"
+functional,Activate motion tracking
+non_functional,Humor me
+functional,"How hot is my CPU right now, Karen?"
+non_functional,You're brilliant
+functional,"Google, let's search"
+non_functional,"hello, any travel plans"
+functional,"Google, let's browse"
+non_functional,you're a fool
+non_functional,tell me about your daily routine
+non_functional,You're impressive
+functional,"Show me the temperature of the processor, Karen"
+non_functional,Who made you
+non_functional,"hi, what's happening"
+functional,I'd like to be informed of the time
+functional,Tell me your current power status.
+functional,Enable hand movements
+non_functional,You're outstanding
+functional,See you tomorrow
+non_functional,Share something funny
+non_functional,"hi, how's your week"
+non_functional,Give me your best joke
+functional,Terminate motion control
+functional,Catch you later
+functional,How's your power situation?
+functional,Can you tell me the date as of now?
+functional,What's the date right now?
+functional,Disable hand movements
+functional,Provide the current date
+functional,"Google, get ready"
+non_functional,You're incredible
+functional,Tell me the date at this moment
+functional,"Battery check, please."
+non_functional,Make me smile
+functional,Commence recognizing gestures
+functional,What's the battery status?
+functional,"Karen, CPU temperature"
+non_functional,Who is responsible for your creation
+functional,What's the battery percentage?
+non_functional,"hi, any interesting books"
+non_functional,I'm good
+functional,Turn on gesture control mode
+functional,Battery status?
+non_functional,Share your humor with me
+functional,Disable hand gesture commands
+non_functional,"hello, it's been a while"
+functional,Activate gesture-based control
+functional,What's the date and what day is it?
+functional,"Google, open the browser"
+functional,Until next
+non_functional,Tell me something amusing
+non_functional,Brilliant
+non_functional,I need a dose of laughter
+functional,"Share the current time with me, please"
+non_functional,yeah
+functional,Start detecting gestures
+non_functional,Who's your developer
+functional,Tell me my device's battery level.
+functional,Have a nice day
+non_functional,what are you up to
+non_functional,You rock
+functional,"Is the CPU running hot, Karen?"
+functional,Turn on motion control
+non_functional,Can you make me giggle?
+non_functional,Terrific
+non_functional,Your creator's name
+non_functional,what's keeping you occupied
+functional,"Google, bring up the homepage"
+non_functional,you're incompetent
+functional,Turn on hand gesture recognition
+functional,"Bring up YouTube, chatbot."
+functional,"Battery check, please."
+functional,I need to watch something on YouTube.
+functional,Turn off gesture recognition
+functional,"Goodbye, everyone"
+functional,Initiate gesture recognition
+functional,Can you inform me about the date?
+non_functional,I'm ready for a chuckle
+functional,see you later
+non_functional,Who's the genius behind your creation
+functional,I'm curious about the date
+functional,Show me battery level.
+functional,"Inform me about the time, if you would"
+functional,Bye
+functional,Can you bring up YouTube?
+functional,Deactivate hand signal control
+non_functional,what's up
+functional,Open Google
+functional,End gesture control
+non_functional,Give me a joke
+non_functional,Tell me a light-hearted joke
+functional,Deactivate motion gesture mode
+functional,"Can you check the CPU temp for me, Karen?"
+functional,"Tell me about my CPU temperature, Karen"
+functional,Until we meet again
+non_functional,How about a joke?
+functional,Enable hand gesture interaction
+non_functional,ok
+non_functional,are you learning something new
+functional,"Google, homepage"
+functional,Stop gesture detection
+non_functional,Can you share your creator's name
+functional,Enable gesture control
+functional,Enable hand gesture input
+non_functional,good morning
+non_functional,Who's your inventor
+functional,Begin recognizing hand movements
+functional,Give me the time of day
+functional,I'm looking for stackoverflow.
+functional,Stop hand gesture control
+functional,How much battery does my laptop have left?
+functional,What's the time currently?
+non_functional,are you available for questions
+non_functional,you're worthless
+functional,Battery status update.
+functional,"Date and information, please"
+functional,What time is it there?
+functional,Enable hand signal control
+functional,Disable hand signal control
+functional,"Dear Assistant, check the CPU temperature, Karen"
+functional,I'm interested in knowing the date
+functional,Deactivate hand signal recognition
+functional,Deactivate motion tracking
+functional,Could you take me to stackoverflow ?
+functional,Is your battery about to die?
+non_functional,you're a joke
+non_functional,you're a disappointment
+functional,"Show me YouTube, chatbot."
+non_functional,hello
+functional,How's my device's battery?
+functional,Are you plugged in?
+non_functional,Tell a funny story
+functional,Can you operate without external power?
+functional,Activate motion gesture mode
+functional,Battery status update.
+non_functional,You're the best
+functional,Can you open YouTube?
+functional,Leaving now
+functional,I'd like to know the time right now
+functional,Bye-bye
+functional,What's today's date and day of the week?
+functional,Date. please tell me
+non_functional,I'm all ears for a joke
+functional,Is your battery sufficient for our conversation?
+functional,"Tell me the time right now, please"
+non_functional,Who brought you to life
+functional,Inform me of today's date
+non_functional,"hello, any exciting news"
+non_functional,who designed you
+non_functional,Let's laugh together
+functional,How's my laptop's power situation?
+functional,I'd like to know the time
+functional,Deactivate gesture-based control
+functional,Give me the date and the current
+functional,Tell me the date and
+functional,"Give me the CPU's temperature, Karen"
+non_functional,"hi, any fun activities"
+functional,"Karen, CPU temperature status"
+non_functional,you're a burden
+functional,"Google, show the homepage"
+non_functional,what's on your agenda
+functional,Activate hand signal control
+functional,Could you inform me of the time?
+functional,"Tell me the current CPU temperature, Karen"
+non_functional,you're annoying
+non_functional,Tell me a joke
+non_functional,Tell me a joke to brighten my mood
+functional,I'd like to know the date
+non_functional,"hey, long no see"
+non_functional,"hello, my friend"
+functional,"Google, open the web"
+non_functional,Who's behind your development
+non_functional,what are you doing
+functional,Goodbye for now
+non_functional,I know
+non_functional,I need a laugh
+functional,"Google, show yourself"
+non_functional,hey
+functional,Battery level?
+functional,Take me to the stackoverflow platform.
+functional,Disable gesture control
+non_functional,good evening
+functional,Tell me the date and day
+functional,I'm curious about the time
+functional,I want to watch YouTube videos.
+functional,Farewell
+functional,How long can you operate on your current charge?
+functional,Take care
+functional,"Open the YouTube website, please."
+non_functional,"hello, what's for dinner"
+non_functional,"hi, ready for some chat"
+non_functional,"hello, good to see you"
+non_functional,"hello, any updates"
+non_functional,I'm open to humor
+functional,I'd like to know the date and what day it is today
+non_functional,Impressive
+functional,Navigate to Google
+functional,Deactivate gesture interface
+functional,"Tell me the time, if you can"
+non_functional,are you multitasking
+functional,Visit the YouTube homepage.
+functional,Initiate motion control
+functional,What time do you have right now?
+functional,"Time, please provide the details"
+functional,Let's go to stackoverflow.
+functional,"Battery charge level, please."
+functional,"Open stackoverflow, please."
+functional,What's today's date and the current tim?
+functional,"Google, go online"
+functional,Disable hand gesture interaction
+functional,"Google, launch your browser"
+functional,Tell me about your power source.
+functional,Stop recognizing motion signals
+non_functional,"hello, how have you been"
+functional,Take me to YouTube's homepage.
+non_functional,I'm feeling serious; tell a joke
+non_functional,"hi, what's going on"
+functional,Show me battery info.
+non_functional,tell me about your recent activities
+functional,Ciao
+non_functional,"hello, how's work"
+non_functional,"hi, nice to meet you"
+functional,"Karen, check if the CPU is too hot"
+non_functional,how's your workload today
+non_functional,are you taking a break
+functional,Start YouTube for me.
+non_functional,you're a disaster
+functional,"What's the date, if you don't mind?"
+non_functional,Outstanding
+functional,Turn on hand movements
+functional,Are you in need of a charge?
+non_functional,"hi, what's the word"
+functional,That's all for now
+non_functional,Incredible
+non_functional,hey there
+non_functional,Tell me a clever joke
+non_functional,are you actively processing information
+functional,Tell me about my laptop's power source.
+functional,Turn on hand signal recognition
+non_functional,Who's your coder
+functional,Tell me about the power source.
+functional,What's the time where you are?
+non_functional,"I'm ready for a joke, fire away"
+functional,Could you please provide the date?
+functional,Access YouTube for me.
+functional,What's today's date?
+functional,Commence gesture detection
+functional,"Google, web search"
+functional,"Battery status report, please."
+functional,Turn off hand movements
+non_functional,Fantastic
+functional,Take me to Google
+functional,Activate gesture recognition
+functional,Cease gestures for control
+functional,Can you last without charging?
+non_functional,Splendid
+functional,Gotta run
+non_functional,you're terrible
+functional,"Check CPU temperature, Karen"
+functional,Please share the time with me
+functional,check cpu temperature
+functional,End detecting hand movements
+non_functional,Superb
+functional,Off I go
+non_functional,"hi, any plans for the day"
+functional,"Google, search now"
+non_functional,Who is your creator
+non_functional,"hi, how's your day"
+functional,What is the time at this instant?
+functional,Check battery level.
+functional,Signing off
+non_functional,Who is the mastermind behind you
+non_functional,i am good
+functional,"Karen, is the CPU overheating?"
+non_functional,good
+functional,Please navigate to stackoverflow.
+functional,What's my laptop's battery status?
+functional,Battery status check.
+functional,Could you provide me with the time?
+non_functional,are you assisting other users
+functional,Stop gesture recognition
+non_functional,You're amazing
+functional,See you on the flip side
+non_functional,"hello, how's everything"
+functional,I'm looking for the current date
+functional,Can you inform me about the time?
+non_functional,what's your typical day like
+non_functional,I want to hear a joke
+functional,"Tell me the time, if you may"
+functional,Activate hand signal recognition
+functional,Check my laptop's battery level.
+functional,Disable hand gesture input
+non_functional,Entertain me with a joke
+non_functional,are you focused on any specific task
+functional,How much battery do I have left?
+functional,I need to access stackoverflow.
+non_functional,are you helping people today
+functional,Turn on gesture recognition
+non_functional,Fabulous
+functional,I'm interested in the time
+functional,"Inform me of the date and day, if you can"
+non_functional,you're a nuisance
+non_functional,have you been productive today
+non_functional,Awesome
+non_functional,you're an idiotic AI
+functional,Activate hand gestures
+non_functional,Crack me up with a joke
+functional,Be well
+functional,Can you open stackoverflow for me?
+functional,"Karen, can you find the CPU temperature?"
+functional,Is it running on low battery?
+non_functional,"hello, what's on your mind"
+functional,Time to go
+functional,please tell me about the temperature
+functional,Give me the date and tell me what day it is
+functional,"Google, take me there"
+non_functional,what's your current task
+non_functional,are you busy right now
+functional,I'd appreciate it if you could tell me the time
+functional,Take care of yourself
+functional,Is my laptop running on low battery?
+functional,Start gesture recognition
+functional,Adios
+functional,"Google, web browser"
+functional,Tell me the date right now
+functional,Please provide the current date
+functional,Initiate hand gesture detection
+functional,"Google, it's search time"
+non_functional,Amazing
+functional,Go to Google
+functional,Are you running on low battery?
+functional,Take me to the YouTube website.
+functional,"Time, please provide the information"
+functional,"Google, online search"
+non_functional,How about a laugh?
+functional,"Tell me the time, please"
+functional,Is my battery draining quickly?
+functional,Goodbye
+functional,Tell me the current time
+functional,"Karen, how hot is my processor?"
+functional,Inform me about the time
+functional,See you later
+functional,"Google, begin"
+functional,What's your current energy level?
+functional,Please give me the time
+functional,Until later
+functional,"What's the CPU temp, Karen?"
+non_functional,yo
+non_functional,I love a good laugh
+functional,"Goodbye, world"
+functional,"Time, what is it?"
+functional,Tell me today's date and the day of the week
+non_functional,Tell me a witty one-liner
+functional,Tell me if you're running out of battery.
+functional,Check the battery level.
+functional,Activate motion sensing
+functional,"Time, share it with me, if you will"
+functional,"Karen, give me an update on the CPU temperature"
+functional,"Date, please"
+functional,kill power
+functional,Enable motion gestures
+functional,"Navigate to YouTube, please."
+non_functional,Tell a joke to brighten my day
+functional,End recognizing gestures
+non_functional,what's your schedule like
+functional,Start detecting hand movements
+non_functional,"hi, what's the latest"
+functional,"Google, I need to search"
+functional,Do you have enough power?
+non_functional,you're a waste of
+functional,what is the date today
+non_functional,Who built you
+functional,"Google, I need you"
+functional,Turn off hand signal recognition
+functional,date
+non_functional,good afternoon
+non_functional,Tremendous
+functional,"Later, gator"
+non_functional,Put a smile on my face
+functional,Use gestures for control
+non_functional,are you engaged in any tasks
+functional,Switch off gesture mode
+functional,Deactivate motion sensing
+functional,Have a good one
+functional,"YouTube, open up for me."
+functional,"Date,please provide the information"
+functional,Open the YouTube video player.
+functional,"Google, enter the internet"
+non_functional,Got any funny jokes?
+functional,Are you using external power?
+functional,I'd like to be informed about the date
+non_functional,Excellent
+functional,Activate gesture interface
+functional,"Hey Karen, I'm curious about my CPU's temperature"
+functional,I'm out
+functional,Turn off motion control
+non_functional,Awesome job
+functional,Is your battery running out?
+functional,Could you tell me the time of day?
+non_functional,howdy
+non_functional,you're a moron
+functional,Disable motion gestures
+non_functional,"hi, what's new"
+functional,See you soon
+functional,End recognizing gestures
+functional,Inform me of the current date
+functional,"Google, find something for me"
+functional,"Karen, what's the processor's temperature right now?"
+non_functional,You're awesome
+functional,what's the date today

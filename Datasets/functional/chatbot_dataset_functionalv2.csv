@@ -1,0 +1,399 @@
+tags,patterns
+google,"Google, open the browser"
+battery_level,Check the battery level.
+date,"Can you tell me the current date, please?"
+google,"Google, go to the website"
+time,Do you have the time?
+activate_gesture_recognition,Activate gesture recognition
+google,Launch Google
+chatbot_goodbye,Ciao
+date,Provide the current date
+chatbot_goodbye,"Bye, bye"
+google,"Google, show the search bar"
+google,"Google, access the web"
+cpu_temperature,"Show me the temperature of the processor, Karen"
+date,"Date, please"
+google,Visit Google
+battery_level,What's my laptop's battery status?
+battery_level,How's my laptop's power situation?
+date,Tell me the date at this moment
+google,"Google, search now"
+battery_level,Show me battery info.
+cpu_temperature,"Boss, what's the CPU temperature, Karen?"
+battery_level,Tell me my device's battery level.
+stackoverflow,Go to stackoverflow website.
+time,Please tell me the time
+date,What's the date and the day today?
+deactivate_gesture_recognition,Terminate hand gesture detection
+battery_level,How much charge do you have?
+date,I need to know the current date
+google,"Google, get ready"
+activate_gesture_recognition,Enable hand gesture interaction
+chatbot_goodbye,Leaving now
+chatbot_goodbye,Be well
+time,I'd like to know the time
+activate_gesture_recognition,Start hand gesture control
+deactivate_gesture_recognition,Disable motion gestures
+google,Take me to Google
+time,What time is it there?
+time,What's the time where you are?
+chatbot_goodbye,Catch you later
+date,date
+battery_level,Do you have a charging port?
+battery_level,Is my battery draining quickly?
+battery_level,How long can you operate on your current charge?
+cpu_temperature,"What's the CPU temperature, Karen?"
+activate_gesture_recognition,Turn on gesture control mode
+chatbot_goodbye,Gotta run
+battery_level,Battery status check.
+activate_gesture_recognition,Enable hand signal control
+deactivate_gesture_recognition,End detecting hand movements
+youtube,Can you bring up YouTube?
+chatbot_goodbye,Have a great day
+stackoverflow,"Open stackoverflow, please."
+deactivate_gesture_recognition,Disable gesture control
+date,Tell me the current date
+time,Please give me the time
+deactivate_gesture_recognition,Terminate motion control
+google,"Google, it's time"
+battery_level,Laptop battery status?
+activate_gesture_recognition,Start recognizing gestures
+google,"Google, begin"
+deactivate_gesture_recognition,Disable hand signal control
+deactivate_gesture_recognition,Turn off gesture recognition
+deactivate_gesture_recognition,Cease gestures for control
+activate_gesture_recognition,Turn on motion control
+deactivate_gesture_recognition,Terminate gesture recognition
+youtube,"YouTube, show me videos."
+battery_level,Is your battery fully charged?
+activate_gesture_recognition,Activate gesture mode
+date,I'd like to know the date
+time,What time is it at your end?
+youtube,I want to go to YouTube.
+cpu_temperature,"Karen, how hot is my processor?"
+date,Tell me today's date and the day of the week
+battery_level,What's the battery status?
+time,"Inform me about the time, if you would"
+battery_level,What's your current energy level?
+youtube,I'd like to see YouTube.
+deactivate_gesture_recognition,Deactivate motion sensing
+chatbot_goodbye,See you on the flip side
+date,Inform me of the current date
+activate_gesture_recognition,Enable hand gesture commands
+deactivate_gesture_recognition,Turn off hand signal recognition
+stackoverflow,Direct me to stackoverflow.
+deactivate_gesture_recognition,End recognizing motion gestures
+date,Tell me the date right now
+youtube,I want to watch YouTube videos.
+google,Open Google website
+time,"Time, please provide the information"
+activate_gesture_recognition,Start detecting hand movements
+battery_level,Are you using external power?
+activate_gesture_recognition,Start recognizing motion signals
+cpu_temperature,"Check CPU temperature, Karen"
+date,I'd like to be informed about the date
+chatbot_goodbye,See you soon
+activate_gesture_recognition,Start gesture recognition
+google,"Google, take me online"
+date,What's today's date and day of the week?
+deactivate_gesture_recognition,Stop hand gesture control
+time,Inform me about the time
+google,Go to Google
+date,Give me the date
+date,Could you let me know the date?
+activate_gesture_recognition,Turn on hand movements
+battery_level,"Battery level check, please."
+cpu_temperature,"Hey Karen, I'm curious about my CPU's temperature"
+google,"Google, go online"
+google,"Google, I need to search"
+deactivate_gesture_recognition,Switch off gesture mode
+time,"Time, can you tell me?"
+battery_level,What's my laptop's battery percentage?
+youtube,Let's watch some YouTube.
+cpu_temperature,"Tell me the current CPU temperature, Karen"
+activate_gesture_recognition,Enable gesture control
+chatbot_goodbye,Bye
+date,What's today's date?
+date,"Date,please provide the information"
+activate_gesture_recognition,Activate motion sensing
+date,Please provide the current date
+battery_level,Show me battery level.
+date,Can you tell me the date as of now?
+date,I'm interested in knowing the date
+youtube,I need to watch something on YouTube.
+google,"Google, open the search engine"
+activate_gesture_recognition,Turn on hand signal recognition
+time,"Tell me the time, if you may"
+chatbot_goodbye,Until we meet again
+date,I'm looking for the current date
+chatbot_goodbye,Goodbye for now
+time,I need to know the time
+battery_level,Is my laptop running on low battery?
+google,"Google, please"
+deactivate_gesture_recognition,Deactivate gesture-based control
+time,"Time, what is it?"
+google,Navigate to Google
+time,"Time, share it with me, if you will"
+cpu_temperature,"Karen, check if the CPU is too hot"
+cpu_temperature,"Karen, can you find the CPU temperature?"
+cpu_temperature,"Tell me about my CPU temperature, Karen"
+activate_gesture_recognition,Switch to gesture mode
+chatbot_goodbye,"Goodbye, friend"
+battery_level,How's my device's battery?
+stackoverflow,I need to access stackoverflow.
+time,Can you share the time with me?
+date,Can you inform me about the date?
+chatbot_goodbye,I'm out
+cpu_temperature,"Karen, what's the processor's temperature right now?"
+deactivate_gesture_recognition,End recognizing gestures
+time,What's the time currently?
+google,"Google, it's search time"
+time,"Time, please provide the details"
+date,"What's the date, if you don't mind?"
+chatbot_goodbye,So long
+google,"Google, internet search"
+time,"Share the current time with me, please"
+battery_level,Tell me your current power status.
+cpu_temperature,"Karen, CPU temperature status"
+time,Tell me the current time
+date,I'm curious about the date
+date,Give me the date and tell me what day it is
+time,I'd like to be informed of the time
+date,What day is it today?
+chatbot_goodbye,Goodbye and thanks
+time,What time do you have?
+activate_gesture_recognition,Initiate hand gesture detection
+stackoverflow,Could you take me to stackoverflow ?
+google,"Google, let's browse"
+deactivate_gesture_recognition,Deactivate hand gestures
+chatbot_goodbye,Farewell
+date,Tell me the date and day
+date,what is the date today
+time,"Tell me the time right now, please"
+date,I want to know the date and day
+activate_gesture_recognition,Start detecting gestures
+google,"Google, online search"
+deactivate_gesture_recognition,Stop recognizing motion signals
+date,"Date and information, please"
+activate_gesture_recognition,Activate motion gesture mode
+google,"Google, I need you"
+time,I'd like to know the time right now
+google,"Google, show the homepage"
+youtube,Can you open YouTube?
+date,What's the date and what day is it?
+google,"Google, show yourself"
+time,Let me know the current time
+google,"Google, open up"
+battery_level,How's your power situation?
+time,"Tell me the time, if you can"
+activate_gesture_recognition,Begin recognizing motion gestures
+time,I'm interested in the time
+date,Tell me the date and
+google,"Google, web search"
+youtube,"It's time for YouTube, chatbot."
+activate_gesture_recognition,Activate motion tracking
+date,What's the day and date?
+time,"Let me in on the time, if you can"
+chatbot_goodbye,Bye-bye
+deactivate_gesture_recognition,Disable hand movements
+deactivate_gesture_recognition,Turn off motion control
+date,"Inform me of the date and day, if you can"
+chatbot_goodbye,"Later, gator"
+battery_level,Tell me about my laptop's power source.
+time,What's the current time on your side?
+chatbot_goodbye,see you later
+date,"Date details, please"
+google,"Google, take me there"
+cpu_temperature,"Karen, give me the temperature reading of the processor"
+stackoverflow,Can you open stackoverflow for me?
+chatbot_goodbye,See you next
+google,"Google, let's search"
+time,I'm interested in the time of day
+time,Could you inform me of the time?
+time,I'm curious about the time
+google,"Google, launch your browser"
+battery_level,Can you last without charging?
+cpu_temperature,"What's the CPU temp, Karen?"
+activate_gesture_recognition,Begin recognizing hand movements
+time,Could you provide me with the time?
+deactivate_gesture_recognition,Stop detecting gestures
+deactivate_gesture_recognition,End recognizing hand movements
+time,What's the time right now?
+cpu_temperature,"What's the temperature of the CPU, Karen?"
+chatbot_goodbye,Goodnight
+battery_level,Tell me about the power source.
+activate_gesture_recognition,Activate gesture-based control
+chatbot_goodbye,Signing off
+stackoverflow,I want to visit stackoverflow.
+date,Please share the current datewith me
+battery_level,Are you running on low battery?
+google,Access Google
+battery_level,Tell me about your power source.
+deactivate_gesture_recognition,Deactivate hand signal control
+activate_gesture_recognition,Use gestures for control
+chatbot_goodbye,"Goodbye, everyone"
+time,What is the time at this instant?
+deactivate_gesture_recognition,Disable hand gesture commands
+youtube,Take me to YouTube's homepage.
+date,Could you tell me today's date?
+google,"Google, homepage"
+time,"Tell me the time, please"
+google,"Google, I want to search"
+cpu_temperature,"Can you check the CPU temp for me, Karen?"
+battery_level,Is your battery running out?
+chatbot_goodbye,Adios
+activate_gesture_recognition,Begin gesture control
+chatbot_goodbye,Cheerio
+date,What's the date and day of the week?
+date,Date. please tell me
+time,Could you tell me the time of day?
+google,"Google, web browser"
+youtube,Access YouTube for me.
+battery_level,Is your battery sufficient for our conversation?
+battery_level,Battery level?
+time,What time do you have right now?
+date,What's the date today and what day is it?
+cpu_temperature,"Karen, is my CPU running too hot?"
+cpu_temperature,"What's the temperature, Karen?"
+battery_level,Are you in need of a charge?
+chatbot_goodbye,Have a good one
+google,"Google, explore the internet"
+date,Could you please provide the date?
+deactivate_gesture_recognition,Deactivate gesture interface
+time,What time is it now?
+stackoverflow,Let's go to stackoverflow.
+time,What's the time on your clock?
+battery_level,"Battery charge level, please."
+google,"Google, find something for me"
+time,Give me the time of day
+deactivate_gesture_recognition,Deactivate gesture mode
+battery_level,What's the battery status?
+battery_level,Do you need to recharge?
+time,I want to know the time of day
+youtube,"YouTube, let's start."
+chatbot_goodbye,kill power
+stackoverflow,I'm looking for stackoverflow.
+chatbot_goodbye,That's all for now
+google,"Google, surf the web"
+battery_level,Display battery information.
+chatbot_goodbye,See you tomorrow
+time,"Time, share it with me"
+date,I'd like to know the date and what day it is today
+battery_level,Check battery level.
+google,Open Google
+google,"Google, start"
+youtube,"Open the YouTube website, please."
+deactivate_gesture_recognition,Stop gesture detection
+cpu_temperature,"Karen, give me an update on the CPU temperature"
+youtube,Take me to the YouTube website.
+deactivate_gesture_recognition,Stop gesture recognition
+chatbot_goodbye,Until next
+deactivate_gesture_recognition,End gesture control
+date,What's the date right now?
+deactivate_gesture_recognition,Turn off gesture control mode
+activate_gesture_recognition,Use hand gestures
+battery_level,"Battery check, please."
+chatbot_goodbye,Take care
+chatbot_goodbye,"Goodbye, world"
+time,What's the present time?
+google,"Google, bring up the homepage"
+chatbot_goodbye,Time to go
+google,"Google, open the web"
+activate_gesture_recognition,Enable motion gestures
+date,What's the date and what day of the week is it?
+battery_level,Are you plugged in?
+activate_gesture_recognition,Enable hand movements
+chatbot_goodbye,Have a nice day
+youtube,Open the YouTube video player.
+time,"Time, please reveal it to me"
+google,"Google, load up"
+youtube,"YouTube, open up for me."
+time,Could you let me know the time?
+youtube,It's YouTube time!
+activate_gesture_recognition,Start recognizing hand gestures
+date,tell me date
+battery_level,Battery life status?
+battery_level,How's the power situation?
+cpu_temperature,"Hey Karen, I need the CPU temperature"
+battery_level,How much battery does my laptop have left?
+time,What's the time at the moment?
+youtube,"Bring up YouTube, chatbot."
+cpu_temperature,"Karen, CPU temperature"
+youtube,Visit the YouTube homepage.
+battery_level,Can you operate without external power?
+activate_gesture_recognition,Initiate motion control
+chatbot_goodbye,Hasta la vista
+date,Give me the date and the current
+chatbot_goodbye,Sayonara
+deactivate_gesture_recognition,Disable hand gesture interaction
+battery_level,Battery status update.
+stackoverflow,Take me to the stackoverflow platform.
+cpu_temperature,"Karen, is the CPU overheating?"
+chatbot_goodbye,Off I go
+date,Give me today's date
+activate_gesture_recognition,Commence gesture detection
+youtube,Open the YouTube web page.
+deactivate_gesture_recognition,Deactivate motion gesture mode
+deactivate_gesture_recognition,Deactivate hand signal recognition
+activate_gesture_recognition,Activate hand gestures
+date,Give me the current date
+activate_gesture_recognition,Turn on gesture recognition
+activate_gesture_recognition,Initiate gesture recognition
+cpu_temperature,"How hot is my CPU right now, Karen?"
+chatbot_goodbye,"So long, partner"
+date,What's today's date and what's the day today?
+battery_level,Power status?
+chatbot_goodbye,Goodbye
+deactivate_gesture_recognition,Deactivate gesture recognition
+battery_level,Check my laptop's battery level.
+deactivate_gesture_recognition,Disable hand gesture input
+deactivate_gesture_recognition,Turn off hand movements
+battery_level,"Battery status report, please."
+youtube,Please launch YouTube.
+battery_level,Is your battery about to die?
+activate_gesture_recognition,Enable hand gesture input
+time,Do you know the current time?
+chatbot_goodbye,See you later
+battery_level,Can you work without charging?
+activate_gesture_recognition,Activate hand signal recognition
+date,What's the date today?
+cpu_temperature,"What's the current temperature of the processor, Karen?"
+stackoverflow,Please navigate to stackoverflow.
+battery_level,Battery status update.
+google,"Google, show me the search engine"
+youtube,Go to the YouTube video platform.
+battery_level,Is it running on low battery?
+cpu_temperature,"Dear Assistant, check the CPU temperature, Karen"
+date,what's the date today
+youtube,Start YouTube for me.
+battery_level,What's the battery percentage?
+deactivate_gesture_recognition,End recognizing hand gestures
+activate_gesture_recognition,Commence recognizing gestures
+battery_level,Do you have enough power?
+chatbot_goodbye,Take it easy
+battery_level,"Battery check, please."
+battery_level,Battery status?
+youtube,"Navigate to YouTube, please."
+battery_level,How much battery do I have left?
+google,"Google, enter the internet"
+time,Can you inform me about the time?
+time,I'd appreciate it if you could tell me the time
+date,Inform me of today's date
+deactivate_gesture_recognition,Deactivate motion tracking
+time,Please share the time with me
+activate_gesture_recognition,Activate hand signal control
+activate_gesture_recognition,Turn on hand gesture recognition
+chatbot_goodbye,Take care of yourself
+cpu_temperature,"Is the CPU running hot, Karen?"
+battery_level,Tell me if you're running out of battery.
+date,Let me know today's date
+deactivate_gesture_recognition,Turn off hand gesture recognition
+cpu_temperature,"Karen, what's the heat level of my CPU?"
+date,What's today's date and the current tim?
+chatbot_goodbye,Until later
+activate_gesture_recognition,Activate gesture interface
+date,Tell me the date right at this moment
+deactivate_gesture_recognition,End recognizing gestures
+cpu_temperature,"Give me the CPU's temperature, Karen"
+stackoverflow,Show me stackoverflow.
+youtube,"Show me YouTube, chatbot."
